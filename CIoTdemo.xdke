@@ -1,0 +1,63 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "CIoTdemo.xdk": {
+        "previousModTime": 1463468148062,
+        "modified": 1463468148062,
+        "seen": true,
+        "name": "CIoTdemo.xdk"
+      },
+      "CIoTdemo.xdke": {
+        "previousModTime": 1463474860252,
+        "modified": 1463474860252,
+        "seen": true,
+        "name": "CIoTdemo.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1463468147849,
+        "modified": 1463468147849,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1463476216377,
+        "modified": 1463476216377,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1463474943966,
+        "modified": 1463474943966,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1463468147857,
+        "modified": 1463468147857,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1463468148044,
+        "modified": 1463468148044,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1463476336548
+      },
+      "package.json": {
+        "previousModTime": 1463476336548
+      }
+    }
+  }
+}

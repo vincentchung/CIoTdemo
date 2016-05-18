@@ -1,0 +1,4 @@
+{
+    "testHost" : "mongodb://localhost/iotdemo-test",
+    "prodHost" : "mongodb://localhost/iotdemo-prod"
+}
